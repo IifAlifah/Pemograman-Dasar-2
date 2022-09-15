@@ -1,5 +1,5 @@
-<p align="center"><b> Big Java</b></p>
-<p align="center"><b>  Early Objects</b></p>
+<p align="center"><h2><b> Big Java</b></p>
+<p align="center"><h2><b>  Early Objects</b></p>
 
 ---
 
