@@ -1,6 +1,4 @@
-<p align="center"><h2><b> Big Java</b></p>
-<p align="center"><h2><b>  Early Objects</b></p>
-
+## **Big Java Early Objects**
 ---
 
 ## **BAB 1**
